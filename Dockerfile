@@ -6,6 +6,7 @@ USER root
 
 USER main
 
+RUN conda remove -y numba
 # Install cclib
 RUN /home/main/anaconda2/bin/pip install cclib
 # Install chemview
