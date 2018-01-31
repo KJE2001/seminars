@@ -1,9 +1,7 @@
 channels:
   - conda-forge
   - defaults
-  - gabrielelanaro
 dependencies:
   - matplotlib
-  - cclib
-  - chemview
-  - chemlab
+  - numpy
+  - sympy
