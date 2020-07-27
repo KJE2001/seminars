@@ -1,7 +1,0 @@
-chemlab
-chemview
-jupyter
-matplotlib
-numpy
-scipy
-sympy
